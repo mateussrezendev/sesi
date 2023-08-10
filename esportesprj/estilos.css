@@ -1,0 +1,46 @@
+.divcabecalho{
+      padding: 20px;
+      width: 100%;
+      background-color: #238713;
+    }
+    .esportelg{
+       width: 20%;
+      margin-left:5%;
+    
+    }
+    .linha{
+          width: 80%;
+          height: 0.05%;
+          background-color: #238713;
+          margin-left: auto;
+          margin-right: auto;
+          font-size: 1%;
+      }
+      
+    .footer{
+        
+         right: 0px;
+        bottom: 0;
+         width: 100%;
+        background-color:#238713;
+        color: white;
+        text-align: right;
+        height: 8%;
+       }
+       
+.ES1{
+  font-family: "Goudy Bookletter 1911", sans-serif;
+  text-align: center;
+  font-size: 180%;
+} 
+.p{
+  font-family: "Goudy Bookletter 1911", sans-serif;
+    text-align: center;
+    line-height: 150%;
+   font-size: large;
+}
+
+
+.social{
+  width: 4%;
+}

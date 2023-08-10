@@ -1,0 +1,117 @@
+.divcabecalho{
+    padding: 20px;
+    width: 100%;
+    background-color: #9d4fa6;
+}
+.culturalogo{
+    width: 20%;
+    margin-left:5%;
+
+}
+
+.footer{
+    right: 0;
+   bottom: 0;
+   width: 100%;
+    background-color:#9d4fa6;
+   color: white;
+   text-align: right;
+    height: 8%;
+       }
+       .logoface{
+    width: 4.05%;
+       }
+       .ttlogo{
+   width: 4.05%;
+       }
+       .ytlogo{
+     width: 4.05%;
+       }
+       .instalogo{
+    width: 3.05%;
+       }
+       .linklogo{
+    width: 4.05%;
+       }
+   
+       .text {
+           color: #2e2b2b;
+           margin-left: 2%;
+       }
+.logoface{
+    width: 4.05%;
+}
+.ttlogo{
+    width: 4.05%;
+}
+.ytlogo{
+    width: 4.05%;
+}
+.instalogo{
+    width: 3.05%;
+}
+.linklogo{
+    width: 4.05%;
+}
+.minimalista{
+    width: 80%;
+    height: 0.05%;
+    background-color: #9d4fa6;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1%;
+}
+.centro{
+    display: flex;
+    flex-grow: row wrap; 
+    width: 80%;
+}
+.centrodiv{
+    width:auto;
+}
+.foto18{
+    width: 44%;
+    margin-left: 45%
+    
+}
+.centrodiv p{
+    font-family: "Goudy Bookletter 1911", sans-serif;
+    text-align: center;
+    display: inline;
+    margin-right: 33%;
+   padding-top: 15%;
+   line-height: 150%;
+   font-size: large;
+    
+    
+}
+#centrodiv p{
+    justify-content: center;
+    align-items: center;
+    vertical-align: middle;
+    display: flex;
+
+}
+.title{
+    font-family: "Goudy Bookletter 1911", sans-serif;
+    text-align: center;
+    font-size: 180%;
+}
+.div2{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.club{
+    width: 75%;
+}
+.ssclub{
+    font-family: "Goudy Bookletter 1911", sans-serif;
+    text-align: center;
+    line-height: 150%;
+   font-size: large;
+}
+
+.social{
+    width: 4%;
+}
