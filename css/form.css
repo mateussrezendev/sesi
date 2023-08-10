@@ -3,13 +3,13 @@
     margin: 0;
 }
 
-html{
-    background-image:url('./img/wallpaper.png');
-}
-
 body{
     display: flex;
     justify-content: center;
+    background-image:url('wallpaper.png');
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
     margin: 10px;
 }
 
@@ -50,17 +50,17 @@ input{
 }
 
 .inputname{
-    background: url('/img/icon.png') no-repeat;
+    background: url('icon.png') no-repeat;
     background-size: 5%;
     background-position: 0% ;
 }
 .inputmail{
-    background: url('/img/mail.png') no-repeat;
+    background: url('mail.png') no-repeat;
     background-size: 5%;
     background-position: 0% ;
 }
 .inputpassword{
-    background: url('/img/password.png') no-repeat;
+    background: url('password.png') no-repeat;
     background-size: 5%;
     background-position: 0% ;
 }
